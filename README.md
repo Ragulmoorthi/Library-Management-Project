@@ -18,7 +18,7 @@ I am Ragul I would like to thank Aerela Technologies priviten Limited for offeri
 
 ###### Layout 4: Issue Books Page
 ## Api for Isssu Book Page
-## If the outstanding dept more than 500, the person can't able take books. If the person dept less than 500 he/she cant take books and it works dynamically.
+## If the outstanding debt more than 500, the person can't able take books. If the person debt less than 500 he/she can't take books and it works dynamically.
 ![image](https://github.com/Ragulmoorthi/Library-Management-Project/assets/138356332/640b61ac-59b8-45be-9a8b-0537661004c7)
 
 
