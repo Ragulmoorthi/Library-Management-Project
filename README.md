@@ -16,7 +16,8 @@ I am Ragul I would like to thank Aerela Technologies priviten Limited for offeri
 ## Layout 3 : Book Mangment/Api for BookMangement Page
 ![image](https://github.com/Ragulmoorthi/Library-Management-Project/assets/138356332/3dd6c8ec-96a8-455e-9111-db4c3364d15d)
 
-###### Layout 4: Issue Books Page*/Api for Isssu Book Page*
+###### Layout 4: Issue Books Page
+## Api for Isssu Book Page
 ![image](https://github.com/Ragulmoorthi/Library-Management-Project/assets/138356332/640b61ac-59b8-45be-9a8b-0537661004c7)
 
 
