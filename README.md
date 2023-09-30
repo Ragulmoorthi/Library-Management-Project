@@ -18,19 +18,20 @@ I am Ragul I would like to thank Aerela Technologies priviten Limited for offeri
 
 ###### Layout 4: Issue Books Page
 ## Api for Isssu Book Page
+## If the outstanding dept more than 500, the person can't able take books. If the person dept less than 500 he/she cant take books and it works dynamically.
 ![image](https://github.com/Ragulmoorthi/Library-Management-Project/assets/138356332/640b61ac-59b8-45be-9a8b-0537661004c7)
 
 
 ## Layout 5: Adding books /Api for NewBooks Page
 ![image](https://github.com/Ragulmoorthi/Library-Management-Project/assets/138356332/9af1685c-8b29-4a3e-b10d-348cc0d8ee9c)
 
-##Layout 6:Member mangement/Api Member Mangment  Page
+## Layout 6:Member mangement/Api Member Mangment  Page
 ![image](https://github.com/Ragulmoorthi/Library-Management-Project/assets/138356332/14b1aea3-474c-40c1-a2c2-06a1e36af52a)
 
-##Layout 7:Adding New Members/Api for adding new member Page
+## Layout 7:Adding New Members/Api for adding new member Page
 ![image](https://github.com/Ragulmoorthi/Library-Management-Project/assets/138356332/34639900-10b3-480e-8fb9-c766efe78fdc)
 
-##Layout 8: Transactions Details /Api for Final Transactions Details  Page
+## Layout 8: Transactions Details /Api for Final Transactions Details  Page
 ![image](https://github.com/Ragulmoorthi/Library-Management-Project/assets/138356332/cc82a8fa-cc58-4cfe-9191-cd76b4f22f44)
 
 
