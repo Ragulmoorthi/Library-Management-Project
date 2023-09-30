@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script:wght@500&family=EB+Garamond:ital@1&family=Exo+2:ital,wght@1,500&family=Josefin+Sans:ital,wght@1,300&family=Jost:ital@1&family=Kalam&family=Libre+Baskerville:ital@1&family=Lora:ital@1&family=Merriweather:ital,wght@1,300;1,700&family=Mooli&family=Old+Standard+TT:ital@1&family=Playfair+Display+SC:wght@700&family=Playfair+Display:ital@1&family=Roboto+Slab:wght@500;700&family=Spectral+SC&family=Sriracha&family=Unna:wght@700&family=Ysabeau+SC&display=swap');
+
+.loginPage{
+  /* background-image: url("./Compound/images/loginbackground.jpg");
+background-size: cover;
+height: 80vh; */
+background-image: url(https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   /* background-image:url("https://images.pexels.com/photos/244134/pexels-photo-244134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
+  height: 100vh; 
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+table td input{
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background-color: #00596a00;
+  border-bottom: 3px solid black;
+  }
+  table{
+    backdrop-filter: blur(1px);
+    background-color:transparent;
+    border-radius: 10%;
+     background-size: cover;
+     backdrop-filter: blur(5px);
+     color: white;
+    
+  }
+  /* table tr,table td,table th{
+border: 3px solid black;
+font-family: 'Mooli', sans-serif;;
+  font-weight: 900;
+
+  } */
+  /* .bookTab tr,.bookTab td,.bookTab th{
+    border: 3px solid black;
+
+  } */
+  .loginTab{
+    border: 1px solid black;
+    
+  }
+  
+
+.custom-button {
+    background-color: #162681;
+    color: #fff;
+    /* Add your custom button styles here */
+
+    /* Add a smooth transition effect for the color change */
+    transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #000000; /* Change background color on hover */
+    /* Add any additional styles you want on hover */
+}
+
+/* Bookstock.css */
+
+.bookTab {
+  background-image:url(https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 );
+  min-height: 83vh;
+  border-collapse: collapse;
+  background-position-y:-126px;
+
+}
+
+.bookTab th, .bookTab td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.bookTab th {
+  background-color: #d05111;
+  color: #000000;
+}
+/* 
+.bookTab tr:nth-child(even) {
+  background-color: #070404a3;
+} */
+
+/* .bookTab tr:hover {
+  background-color: #ff0095; 
+} */
+
+.btn-outline-success {
+  /* Add your custom button styles here */
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+}
+
+.btn-outline-success:hover {
+  background-color: #218838; /* Change button color on hover */
+  /* Add any additional styles you want on hover */
+}
+
+.stockPage{
+  background-image:url(https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 );
+}
+.Divpage{
+  background-image: url(https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  height: 100vh;
+}
+.h1tag{
+  font-family: 'Roboto Slab', serif;;
+}
+.addBook,.memberPage,.issuePage{
+background-color: #88216b;
+height: 100vh;
+margin: 0;
+padding: 0;
+}
+.addingBook,.memberDiv,.issueDiv {
+  background-color:rgb(249, 245, 245);
+  box-shadow: 10px 10px 30px black;
+
+}
